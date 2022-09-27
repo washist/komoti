@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background-color: azure;
+}
+
+header {
+    position: relative;
+    padding: 100px;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+.lists {
+    display: flex;
+    color: red;
+    list-style-type: none;
+    text-align: center;
+}
+
+.list {
+    color: red;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.introductions {
+    color: red;
+    padding-left: 100px;
+}
+
+.introduction {
+    display: flex;
+}
+
+.mikes {
+    padding-left: 40px;
+    text-align: left;
+}
+
+.img{
+    width: 250px;
+}
+
+.text {
+    width: 90%;
+}
+
+.media {
+    text-align: center;
+    padding-top: 100px;
+}
