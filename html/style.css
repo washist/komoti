@@ -16,20 +16,20 @@ nav {
 
 .lists {
     display: flex;
-    color: red;
+    color: black;
     list-style-type: none;
     text-align: center;
 }
 
 .list {
-    color: red;
+    color: black;
     padding-right: 50px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .introductions {
-    color: red;
+    color: black;
     padding-left: 100px;
 }
 
@@ -38,7 +38,7 @@ nav {
 }
 
 .mikes {
-    padding-left: 40px;
+    padding-left: 50px;
     text-align: left;
 }
 
@@ -53,4 +53,10 @@ nav {
 .media {
     text-align: center;
     padding-top: 100px;
+}
+
+.footer {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 20px;
 }
